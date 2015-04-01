@@ -1,3 +1,9 @@
+# 前川の.emacs.d
+tnodaさんの.emacs.dを単純にフォークしただけです。
+以下、もとのREADME
+
+===
+
 # .emacs.d - 個人的な Emacs 初期化ファイル
 
 tnoda/.emacs.d は個人的な Emacs 初期化ファイルです．
