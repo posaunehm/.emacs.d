@@ -1,5 +1,10 @@
 # 前川の.emacs.d
 tnodaさんの.emacs.dを単純にフォークしただけです。
+
+インストールだけは、以下を使います。
+
+    curl posaune.github.com/.emacs.d/install | sh
+
 以下、もとのREADME
 
 ===
