@@ -1,6 +1,6 @@
 # Clone the repository and activate submodules.
 cd $HOME
-git clone https://github.com/tnoda/.emacs.d.git .emacs.d
+git clone https://github.com/posaunehm/.emacs.d.git .emacs.d
 cd .emacs.d
 git submodule init
 git submodule update
