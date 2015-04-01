@@ -3,7 +3,7 @@ tnodaさんの.emacs.dを単純にフォークしただけです。
 
 インストールだけは、以下を使います。
 
-    curl posaunehm.github.com/.emacs.d/install | sh
+    curl posaunehm.github.io/.emacs.d/install | sh
 
 以下、もとのREADME
 
